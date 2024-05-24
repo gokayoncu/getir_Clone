@@ -1,0 +1,41 @@
+.apply{
+    background-color: #fafafa;
+    padding-bottom: 4rem;
+    .apply-container{
+        background-image: url('https://cdn.getir.com/getirweb-images/common/partners-background.jpg');
+        margin: 0 10%;
+        height: 13rem;
+        border-radius: 6px;
+        box-shadow: rgba(93, 62, 188, 0.04) 0px 6px 24px;
+        display: flex;
+        align-items: center;
+        padding-left: 5%;
+        
+        .apply-box{
+            padding-right: 1.5rem;
+            h2{
+                font-size: 2rem;
+                font-weight: 600;
+                color: #5d3ebc;
+                padding-bottom: 13px;
+            }
+            span{
+                font-size: 17px;
+                color: #697488;
+            }
+        }
+        button{
+            width: 15%;
+            margin-left: 20px;
+            height: 3rem;
+            background: linear-gradient(262.73deg, rgb(255, 228, 48) 0%, rgb(255, 213, 0) 100%);
+            color: #5d3ebc;
+            font-size: 14px;
+            font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+            font-weight: 600;
+            border: 0px;
+            border-radius: 4px;
+        }
+    }
+    
+}

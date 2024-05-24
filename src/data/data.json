@@ -1,0 +1,84 @@
+{
+    "result":[        
+        {
+            "categorie": "Su & İçecek",
+            "media":"https://cdn-image.getir.com/market/category/2eeed937-fbed-4a7c-9ba8-5e627970ed8f.png",
+            "id": "1"
+        },
+        {
+            "categorie": "Meyve & Sebze",
+            "media":"https://cdn-image.getir.com/market/category/5e65d6ee-e0cd-40f6-8829-bba5c179091f.png",
+            "id": "2"
+        },
+        {
+            "categorie": "Süt Ürünleri",
+            "media":"https://cdn-image.getir.com/market/category/dc761a5c-e285-4b1f-91a8-eecb7e24ecb9.png",
+            "id": "3"
+        },
+        {
+            "categorie": "Fırından",
+            "media":"https://cdn-image.getir.com/market/category/e97e995a-4e99-492d-ba9e-a96c4d8f2f64.png",
+            "id": "4"
+        },
+        {
+            "categorie": "Atıştırmalık ",
+            "media":"https://cdn-image.getir.com/market/category/1407e5ff-c40e-4664-baef-0c2085db0277.png",
+            "id": "5"
+        },
+        {
+            "categorie": "Dondurma ",
+            "media":"https://cdn-image.getir.com/market/category/905db971-94da-4d6c-bca4-bf4f8b2fb770.png",
+            "id": "6"
+        },
+        {
+            "categorie": "Temel Gıda ",
+            "media":"https://cdn-image.getir.com/market/category/55ba488b-81ee-4e44-8de8-cce9765da6a4.png",
+            "id": "7"
+        },
+        {
+            "categorie": "Kahvaltılık ",
+            "media":"https://cdn-image.getir.com/market/category/7bb3d5e5-87a0-4831-8692-277b73c4a3ef.png",
+            "id": "8"
+        },
+        {
+            "categorie": "Yiyecek ",
+            "media":"https://cdn-image.getir.com/market/category/725afae6-bfeb-480f-b007-283f403cb214.png",
+            "id": "9"
+        },
+        {
+            "categorie": "Fit & Form ",
+            "media":"https://cdn-image.getir.com/market/category/cc7eb701-f9ae-456d-954c-aa7245713adc.png",
+            "id": "10"
+        },
+        {
+            "categorie": "Kişisel Bakım ",
+            "media":"https://cdn-image.getir.com/market/category/69ee005e-f6ab-4217-b14e-e37116bb1733.png",
+            "id": "11"
+        },
+        {
+            "categorie": "Ev Bakım ",
+            "media":"https://cdn-image.getir.com/market/category/7746c3e3-e760-4a6a-b5ed-fdf0a26bd4af.png",
+            "id": "12"
+        },
+        {
+            "categorie": "Ev & Yaşam ",
+            "media":"https://cdn-image.getir.com/market/category/4ee8cb10-378f-472c-8263-6b6ae4bde2e8.png",
+            "id": "13"
+        },
+        {
+            "categorie": "Evcil Hayvan ",
+            "media":"https://cdn-image.getir.com/market/category/acb25395-8637-4b1b-b298-303162dcc221.png",
+            "id": "14"
+        },
+        {
+            "categorie": "Bebek ",
+            "media":"https://cdn-image.getir.com/market/category/e667fa52-d4cd-468d-a73c-19ac28185fdb.png",
+            "id": "15"
+        },
+        {
+            "categorie": "Cinsel Sağlık",
+            "media":"https://cdn-image.getir.com/market/category/9c307300-bf01-42f8-9f0c-c63ae3cba398.png",
+            "id": "16"
+        }
+    ]
+}

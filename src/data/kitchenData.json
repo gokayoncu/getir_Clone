@@ -1,0 +1,64 @@
+{
+    "result":[        
+        {
+            "categorie": "Pasta & Tatlı",
+            "media":"https://cdn.getiryemek.com/cuisines/1713898344183_1024x1024.jpeg",
+            "id": "1"
+        },
+        {
+            "categorie": "Pizza",
+            "media":"https://cdn.getiryemek.com/cuisines/1713898373780_1024x1024.jpeg",
+            "id": "2"
+        },
+        {
+            "categorie": "Sokak Lezzetleri",
+            "media":"https://cdn.getiryemek.com/cuisines/1713898395238_1024x1024.jpeg",
+            "id": "3"
+        },
+        {
+            "categorie": "Börek",
+            "media":"https://cdn.getiryemek.com/cuisines/1713898214208_1024x1024.jpeg",
+            "id": "4"
+        },
+        {
+            "categorie": "Deniz Ürünleri ",
+            "media":"https://cdn.getiryemek.com/cuisines/1713898239998_1024x1024.jpeg",
+            "id": "5"
+        },
+        {
+            "categorie": "Burger ",
+            "media":"https://cdn.getiryemek.com/cuisines/1713898221252_1024x1024.jpeg",
+            "id": "6"
+        },
+        {
+            "categorie": "Döner ",
+            "media":"https://cdn.getiryemek.com/cuisines/1713898257959_1024x1024.jpeg",
+            "id": "7"
+        },
+        {
+            "categorie": "Dünya Mutfakları ",
+            "media":"https://cdn.getiryemek.com/cuisines/1713898265370_1024x1024.jpeg",
+            "id": "8"
+        },
+        {
+            "categorie": "Ev Yemekleri ",
+            "media":"https://cdn.getiryemek.com/cuisines/1713898283324_1024x1024.jpeg",
+            "id": "9"
+        },
+        {
+            "categorie": "Kahvaltı ",
+            "media":"https://cdn.getiryemek.com/cuisines/1713898297377_1024x1024.jpeg",
+            "id": "10"
+        },
+        {
+            "categorie": "Kebap ",
+            "media":"https://cdn.getiryemek.com/cuisines/1713898313355_1024x1024.jpeg",
+            "id": "11"
+        },
+        {
+            "categorie": "Köfte ",
+            "media":"https://cdn.getiryemek.com/cuisines/1713898320748_1024x1024.jpeg",
+            "id": "12"
+        }
+    ]
+}

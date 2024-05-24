@@ -1,0 +1,32 @@
+.categories{
+    padding: 0 10%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 1rem;
+    
+    div{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1.5rem;
+        .cateforie{
+            display: flex;
+            flex-direction: column;
+            gap: .4rem;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            width: 6rem;
+            height: 7rem;
+            text-decoration: none;
+            color: #000;
+            font-size: 17px;
+            img{
+                width: 3rem;
+                height: 3rem;
+                border-radius: 8px;
+                border: 1px solid rgba(25, 25, 25, 0.1);
+            }
+        }
+    }
+
+}

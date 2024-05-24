@@ -1,0 +1,63 @@
+.kitchen-header{
+    background-color: #fafafa;
+    display: flex;
+    padding: 1% 0 1% 10%;
+    h3{
+        background-color: #fafafa;
+        font-size: 15px;
+        font-weight: 550;
+        font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, "sans-serif";
+    }
+}
+.kitchen{    
+    padding: 0 5%;    
+    background-color: #fafafa;
+    display: flex;
+    align-items: center;
+    .kitchen-container{
+        display: flex;
+        flex-direction: row;
+        gap: 1rem;
+        overflow-y: hidden;
+        overflow-x: scroll;
+        background-color: #fafafa;
+        transition: all 1s linear;
+        .kitchen-box{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            overflow: hidden;
+            justify-content: space-between;
+            padding-bottom: 10px;
+            min-width: 140px;
+            min-height: 108px;
+            font-size: 14px;
+            color: rgb(93, 62, 188);
+            text-decoration: none;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: rgba(93, 62, 188, 0.04) 0px 6px 24px;
+            img{
+                width: 5rem;
+                height: 5rem;
+            }
+            hr{
+                background-color: #f5f5f5;
+                border: 0px transparent;
+                width: 100%;
+                height: 1px;
+            }
+        }        
+    }
+    .arrow{
+        color: #000;
+        width: 2rem;
+        height: 2rem;
+        padding: 0 1.6rem;
+        color: rgb(93, 62, 188);
+    }
+    .kitchen-container::-webkit-scrollbar {
+        display: none;
+    }
+    
+}

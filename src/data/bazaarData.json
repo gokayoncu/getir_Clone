@@ -1,0 +1,139 @@
+{
+    "result":[        
+        {
+            "id": "1",
+            "categorie": "Deprem yardımı",
+            "media":"https://cdn.getircarsi.com/19668259d480075884f4ec59e44e73a5.png"
+        },
+        {
+            "id": "2",
+            "categorie": "Su",
+            "media":"https://cdn.getircarsi.com/5afe83799bc86556599ee9ec74663c8c.jpg"
+        },
+        {
+            "id": "3",
+            "categorie": "Kahveci",
+            "media":"https://cdn.getircarsi.com/a971cf8d2661b1f6370a376d4be9ef96.png"
+        },
+        {
+            "id": "4",
+            "categorie": "Hediye",
+            "media":"https://cdn.getircarsi.com/51e10392d7cc15975b6281771caa11a2.png"
+        },
+        {
+            "id": "5",
+            "categorie": "Kuaför",
+            "media":"https://cdn.getircarsi.com/19bf26a4b6f2bc1fca4e15754afd97a9.jpg"
+        },
+        {
+            "id": "6",
+            "categorie": "Anne & Çocuk",
+            "media":"https://cdn.getircarsi.com/554fcbd74ec94eef7b6d535dc9c85106.png"
+        },
+        {
+            "id": "7",
+            "categorie": "Market",
+            "media":"https://cdn.getircarsi.com/72ac6c0686ff6f568888c7c5718ee660.png"
+        },
+        {
+            "id": "8",
+            "categorie": "Manav",
+            "media":"https://cdn.getircarsi.com/29735ed48d43ae4443ff8d629703b79b.jpeg"
+        },
+        {
+            "id": "9",
+            "categorie": "Kasap",
+            "media":"https://cdn.getircarsi.com/198d969f26b3d12c481bf06ca4a07fba.png"
+        },
+        {
+            "id": "10",
+            "categorie": "Semt Pazarı",
+            "media":"https://cdn.getircarsi.com/eff95eb62d676caef4e930c5fd15f919.jpg"
+        },
+        {
+            "id": "11",
+            "categorie": "Pet Shop",
+            "media":"https://cdn.getircarsi.com/bc940fef889d68f52693c163811bbce0.png"
+        },
+        {
+            "id": "12",
+            "categorie": "Şarküteri",
+            "media":"https://cdn.getircarsi.com/d2a3196a65e05409d74d319e8fc29b05.png"
+        },
+        {
+            "id": "13",
+            "categorie": "Kuru Yemişçi",
+            "media":"https://cdn.getircarsi.com/9770ccff4d133b317ef2eead0c8ee772.png"
+        },
+        {
+            "id": "14",
+            "categorie": "Aktar",
+            "media":"https://cdn.getircarsi.com/2aa40564ba424f559cd085fc6fdc89a9.png"
+        },
+        {
+            "id": "15",
+            "categorie": "Çiçekçi",
+            "media":"https://cdn.getircarsi.com/8db6bc8a272de0d8979392259106689a.jpg"
+        },
+        {
+            "id": "16",
+            "categorie": "Yufkacı",
+            "media":"https://cdn.getircarsi.com/4f357a8cb70f59d6f2bf67a6e51b18f3.png"
+        },
+        {
+            "id": "17",
+            "categorie": "Balıkçı",
+            "media":"https://cdn.getircarsi.com/c5210628ce96a822b8fa41d6e735e11d.png"
+        },
+        {
+            "id": "18",
+            "categorie": "Turşucu",
+            "media":"https://cdn.getircarsi.com/c08a1ef2521512c87e3479f7f38fe617.jpeg"
+        },
+        {
+            "id": "19",
+            "categorie": "Kahveci & Çikolatacı",
+            "media":"https://cdn.getircarsi.com/2e30cc4ab865e039b16651182062055a.png"
+        },
+        {
+            "id": "20",
+            "categorie": "Kırtasiye",
+            "media":"https://cdn.getircarsi.com/5738bc99c87b6399d60192b19f5ac3b0.jpeg"
+        },
+        {
+            "id": "21",
+            "categorie": "Kozmetik",
+            "media":"https://cdn.getircarsi.com/8c4a5fcede57d01737806845701a475f.jpg"
+        },
+        {
+            "id": "22",
+            "categorie": "Elektronik",
+            "media":"https://cdn.getircarsi.com/013ee7899528e2ef10273b76bd7fbbc2.png"
+        },
+        {
+            "id": "23",
+            "categorie": "Giyim",
+            "media":"https://cdn.getircarsi.com/2bb253b5aced44ca756fdc49a0ec6b46.png"
+        },
+        {
+            "id": "24",
+            "categorie": "Bebek",
+            "media":"https://cdn.getircarsi.com/9782679ae8fa4c087191080edf5feef8.jpg"
+        },
+        {
+            "id": "25",
+            "categorie": "Ev, Yaşam & Dekorasyon",
+            "media":"https://cdn.getircarsi.com/450c79c00833eac4e7b72bf5a862686f.jpg"
+        },
+        {
+            "id": "26",
+            "categorie": "Hobi",
+            "media":"https://cdn.getircarsi.com/416adf9f1327f31c79307d65805e369f.jpg"
+        },
+        {
+            "id": "27",
+            "categorie": "AVM",
+            "media":"https://cdn.getircarsi.com/57835084721abb3ce4beb3ba7d0b6675.png"
+        }
+    ]
+}
