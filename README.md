@@ -1,4 +1,5 @@
 # React + Vite
+I designed the homepage of getir.com in the project. In my project where I used React.js, I used Css for styling, Router for the navbar, and Vidstrack for video designs.
 
 https://deluxe-salmiakki-21c334.netlify.app
 
